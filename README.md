@@ -4,7 +4,7 @@ A weapon detection model trained using Yolov7.
 
 The model can be downloaded below:
 
-https://drive.google.com/file/d/1ZcCpojLadD_btxIcWX1ol1IGXlazricz/view?usp=sharing
+[https://drive.google.com/file/d/1ZcCpojLadD_btxIcWX1ol1IGXlazricz/view?usp=sharing](https://drive.google.com/u/0/uc?id=1ZcCpojLadD_btxIcWX1ol1IGXlazricz&export=download)
 
 
 ## Example Detection Video:
@@ -14,7 +14,7 @@ https://drive.google.com/file/d/1ZcCpojLadD_btxIcWX1ol1IGXlazricz/view?usp=shari
 
 ## Dateset
 
-The model was trained on a dataset that combines our own labeled images and other open source weapon datasets. A custom CGI dataset was also created and included in the training process.
+The model was trained on a dataset that combines our own labeled images and other open source weapon datasets. A custom CGI dataset was also created and included in the dataset.
 
 Dataset: https://universe.roboflow.com/ai-project-dazch/final-weapon-dataset
 
