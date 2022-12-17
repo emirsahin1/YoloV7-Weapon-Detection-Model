@@ -1,0 +1,12 @@
+names:
+- weapon
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: final-weapon-dataset
+  url: https://universe.roboflow.com/ai-project-dazch/final-weapon-dataset/dataset/1
+  version: 1
+  workspace: ai-project-dazch
+test: ../test/images
+train: Final-Weapon-Dataset-1/train/images
+val: Final-Weapon-Dataset-1/valid/images
